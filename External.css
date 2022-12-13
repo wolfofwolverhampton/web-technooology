@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap');
+
+h1{background-color: aquamarine;
+    font-size: 40px;
+    font-family: 'La Belle Aurore', cursive;
+    color:blue;
+}
+    
+    p{
+        background-color: aqua;
+        font-size: 30;
+        color:blueviolet;
+        font-family: 'La Belle Aurore', cursive;
+    }
